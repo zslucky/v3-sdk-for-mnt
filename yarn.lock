@@ -5637,10 +5637,10 @@
   "resolved" "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz"
   "version" "3.0.0"
 
-"nova-sdk-core@^4.4.1":
-  "integrity" "sha512-4o6XBymJJ675BikYtnGJVwrXdQm5k5PQmPPKowEtWXLn6W+M820/TKeYqYXE8QNEeyn5s7oYZEm0oGIhvr+TUw=="
-  "resolved" "https://registry.npmjs.org/nova-sdk-core/-/nova-sdk-core-4.4.1.tgz"
-  "version" "4.4.1"
+"nova-sdk-core@^4.5.0":
+  "integrity" "sha512-7tmrRoXijoc/m12ekdEptazta9n2ii0QASjOiAIxlsXkBielA1J728LnpDxTNYSO+fEUEObMbm71ZUM6pTJqWA=="
+  "resolved" "https://registry.npmjs.org/nova-sdk-core/-/nova-sdk-core-4.5.0.tgz"
+  "version" "4.5.0"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     "big.js" "^5.2.2"
